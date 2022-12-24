@@ -1,1 +1,2 @@
-print("Nama saya Rezieq Fadillah")
+print("Rezieq Fadillah")
+print("Sistem Informasi")
